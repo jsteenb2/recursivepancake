@@ -34,6 +34,10 @@
 				3. Struct should have all embedded types listed by full path to struct.
 			5. Method
 				1. Have all the same things as Func with the addition of bool to indicate caller is value or pointer
+			6. Interface
+				1. Have signatures of all methods with associated input/output params
+			7. Named Func Types
+				1. Have signatures of all input/output params and associated types
 */
 package main
 
