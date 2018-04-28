@@ -38,5 +38,8 @@
 				1. Have signatures of all methods with associated input/output params
 			7. Named Func Types
 				1. Have signatures of all input/output params and associated types
+			8. Custom Types
+				1. Have signatures of all input/output params and associated types
+			9. Alias Types
 */
 package main
